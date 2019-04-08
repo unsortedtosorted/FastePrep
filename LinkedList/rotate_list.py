@@ -1,5 +1,6 @@
 """
 
+Given the head node of a singly linked list and an integer 'n', rotate the linked list by 'n'.
 
 1. adjust value of n
 2. find lenght of list
