@@ -3,6 +3,8 @@
 2. keep track of last value seen
 3. if last value is equal to given value, then print it
 
+An iterative solution has O(h) memory complexity as it instantiates a stack that has to store information 
+up to the height of the binary tree (h). It will be O(logn) for a balanced tree and in the worst case, can be O(n).
 """
 
 
